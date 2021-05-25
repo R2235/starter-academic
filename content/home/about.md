@@ -1,21 +1,19 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
+widget: I am Dr. Raza Ullah Khan, working  in Land Resources Research Institute,
+  National Agricultural Research Centre, Pakistan Agricultural Research Council
+  (www.parc.gov.pk)
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: Principal Scientist
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: null
+    text_color_light: true
 ---
+I am interested in 
+i. Data Mining
+ii. Data visualization
+iii. Knowledge sharing
